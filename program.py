@@ -1,3 +1,5 @@
-print('ola mundo do github')
-print('ola mundo do github')
-print('ola mundo do github')
+def mostrarMensagem():
+    print('ola mundo do github')
+    
+for i in range(10):
+    mostrarMensagem()
